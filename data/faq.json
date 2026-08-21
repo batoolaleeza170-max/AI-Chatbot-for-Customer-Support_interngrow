@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What are your business hours?",
+        "answer": "Our customer support is available Monday to Friday, from 9 AM to 6 PM."
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "You can track your order using the tracking number provided in your order confirmation email."
+    },
+    {
+        "question": "What is your refund policy?",
+        "answer": "You can request a refund within 7 days of receiving your order, subject to our refund conditions."
+    },
+    {
+        "question": "How can I contact customer support?",
+        "answer": "You can contact our customer support team through email or live chat."
+    },
+    {
+        "question": "How can I cancel my order?",
+        "answer": "You can request order cancellation before your order has been shipped."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept credit cards, debit cards, and other supported online payment methods."
+    },
+    {
+        "question": "How long does delivery take?",
+        "answer": "Standard delivery usually takes 3 to 5 business days."
+    },
+    {
+        "question": "My order arrived damaged. What should I do?",
+        "answer": "Please contact customer support and provide your order number and photos of the damaged product."
+    },
+    {
+        "question": "Can I change my delivery address?",
+        "answer": "You can request an address change before your order is shipped."
+    },
+    {
+        "question": "Do you offer international delivery?",
+        "answer": "International delivery is available for selected countries. Please contact support for availability."
+    }
+]
